@@ -1,1 +1,3 @@
-Multimise-Learning-24
+# Multimise-IT-Training
+
+Batch 2024
