@@ -1,6 +1,4 @@
-# Explanation
-
-## Week 1 HW:
+# Concepts:
 
 - **Image 1:** Introduces basic pointer concepts, such as pointers to integers and arrays of integers, with different access methods.
 
